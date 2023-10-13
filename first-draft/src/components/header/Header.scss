@@ -1,0 +1,51 @@
+@import '../../assets/scss/imports';
+
+.header {
+    height: 60px;
+    background-color: $bg;
+    display: grid;
+    grid-template-columns: 120px 1fr 60px;
+    align-items: center;
+    padding: 0px 30px;
+
+
+    &_logo {
+        height: 30px;
+        justify-self: start;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    &_search {
+        justify-self: end;
+
+        &_box {
+            margin-right: 10px;
+            height: 30px;
+            border-radius: 20px;
+            border: solid 1px $darkGray;
+            padding: 0px 15px;
+        }
+    }
+
+    &_hamburger {
+        $hamburger-size: 24px;
+        justify-self: end;
+
+        &_container {
+            height: $hamburger-size;
+            width: $hamburger-size;
+            margin-top: 4px;
+        }
+
+        &_bar {
+            height: 4px;
+            width: $hamburger-size;
+            border-radius: 2px;
+            background-color: $primary;
+            margin-bottom: 4px;
+        }
+    }
+}

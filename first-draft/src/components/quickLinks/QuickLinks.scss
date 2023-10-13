@@ -1,0 +1,35 @@
+@import '../../assets/scss/imports';
+
+.quickLinks {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 0px 20px 20px;
+    overflow: hidden;
+
+    &_title {
+        width: 100%;
+        background-color: $bg;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        padding-left: 20px;
+
+        h3 {
+            color: $primary;
+        }
+    }
+
+    &_links {
+        padding: 30px 20px;
+        &_link {
+            border: solid 2px $primary;
+            height: 35px;
+            padding: 0px 25px;
+            border-radius: 22px;
+            display: inline-flex;
+            align-items: center;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+    }
+}

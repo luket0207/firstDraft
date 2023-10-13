@@ -1,0 +1,35 @@
+@import '../../assets/scss/imports';
+
+.search {
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 0px 20px 20px;
+
+    &_title {
+        width: 100%;
+        background-color: $bg;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        padding-left: 20px;
+
+        h3 {
+            color: $primary;
+        }
+    }
+
+    &_box {
+        padding: 30px 20px;
+        display: grid;
+        grid-template-columns: 88% 10%;
+        justify-content: space-between;
+
+        &_input {
+            height: 30px;
+            border-radius: 20px;
+            border: solid 1px $darkGray;
+            padding: 0px 15px;
+        }
+    }
+}

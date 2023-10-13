@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/firstDraft/static/css/main.9c4a5551.css",
+    "main.js": "/firstDraft/static/js/main.660adb50.js",
+    "static/js/787.1967a7e0.chunk.js": "/firstDraft/static/js/787.1967a7e0.chunk.js",
+    "static/media/sales.jpg": "/firstDraft/static/media/sales.29cff528e10fad8befe1.jpg",
+    "static/media/ucskills-logo.svg": "/firstDraft/static/media/ucskills-logo.9b5ac7c48d58f1ad331226642c04d950.svg",
+    "index.html": "/firstDraft/index.html",
+    "main.9c4a5551.css.map": "/firstDraft/static/css/main.9c4a5551.css.map",
+    "main.660adb50.js.map": "/firstDraft/static/js/main.660adb50.js.map",
+    "787.1967a7e0.chunk.js.map": "/firstDraft/static/js/787.1967a7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c4a5551.css",
+    "static/js/main.660adb50.js"
+  ]
+}

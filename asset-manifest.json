@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/firstDraft/static/css/main.c92e0bba.css",
-    "main.js": "/firstDraft/static/js/main.60c3a0af.js",
+    "main.css": "/firstDraft/static/css/main.50d249ba.css",
+    "main.js": "/firstDraft/static/js/main.6fadd248.js",
     "static/js/787.1967a7e0.chunk.js": "/firstDraft/static/js/787.1967a7e0.chunk.js",
     "static/media/sales.jpg": "/firstDraft/static/media/sales.29cff528e10fad8befe1.jpg",
     "static/media/customer-service.jpg": "/firstDraft/static/media/customer-service.d96e3521675c05217faa.jpg",
+    "static/media/teams.jpg": "/firstDraft/static/media/teams.ff537fedc22b993d56ec.jpg",
     "static/media/ucskills-logo.svg": "/firstDraft/static/media/ucskills-logo.d0db18a9cb922c0edc11a178b625ab77.svg",
     "index.html": "/firstDraft/index.html",
-    "main.c92e0bba.css.map": "/firstDraft/static/css/main.c92e0bba.css.map",
-    "main.60c3a0af.js.map": "/firstDraft/static/js/main.60c3a0af.js.map",
+    "main.50d249ba.css.map": "/firstDraft/static/css/main.50d249ba.css.map",
+    "main.6fadd248.js.map": "/firstDraft/static/js/main.6fadd248.js.map",
     "787.1967a7e0.chunk.js.map": "/firstDraft/static/js/787.1967a7e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92e0bba.css",
-    "static/js/main.60c3a0af.js"
+    "static/css/main.50d249ba.css",
+    "static/js/main.6fadd248.js"
   ]
 }
